@@ -30,7 +30,7 @@ Fungsi ini bertugas menampilkan daftar lengkap semua penerbangan yang telah dita
 Ini bisa dilakukan dengan mengiterasi melalui struktur data yang menyimpan tuple-tuple penerbangan dan mencetak setiap tuple. O
 utputnya akan memberikan gambaran keseluruhan dari semua penerbangan yang tersedia dalam sistem.
 
-# HASIL RUNNING PROGRAM
+# Screenshoot
 ## 1.TAMPILAN MENU UTAMA
 ![image](https://github.com/yogasaputra2896/Program-Sistem-Informasi-Penerbangan/assets/140365312/f378246d-8a62-4e21-90e8-ff65acd9a0c8)
 
@@ -43,6 +43,11 @@ utputnya akan memberikan gambaran keseluruhan dari semua penerbangan yang tersed
 ## 4.TAMPILAN MENU MENAMPILKAN SELURUH INFORMASI PENERBANGAN
 ![image](https://github.com/yogasaputra2896/Program-Sistem-Informasi-Penerbangan/assets/140365312/8f508a04-4563-4b8c-94df-c4e9ebd68c8b)
 
+# Tutorial
+- Clone repositori ini atau unduh file Sistem Informasi Penerbangan.py
+- Jalankan aplikasi menggunakan perintah berikut di terminal/command prompt:
+  python Sistem Informasi Penerbangan.py
 
-
+# Kontribusi
+- Jika Anda tertarik untuk berkontribusi, silakan buat pull request atau ajukan issue di halaman ini.
 
